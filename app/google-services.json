@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691585093397",
+    "firebase_url": "https://android-pushnotif-and-auth.firebaseio.com",
+    "project_id": "android-pushnotif-and-auth",
+    "storage_bucket": "android-pushnotif-and-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691585093397:android:3f8c7af4b7846368fca31c",
+        "android_client_info": {
+          "package_name": "com.example.pushnotifandauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691585093397-045q9afm17atrialjbniq0nl8mihm8n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsTB8FkPJji8U5KsTMZ0Es7mXN56G4jLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691585093397-045q9afm17atrialjbniq0nl8mihm8n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
