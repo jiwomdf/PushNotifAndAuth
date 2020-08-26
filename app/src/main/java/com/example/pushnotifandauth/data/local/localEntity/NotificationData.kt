@@ -1,4 +1,4 @@
-package com.example.pushnotifandauth
+package com.example.pushnotifandauth.data.local.localEntity
 
 data class NotificationData (
     val title: String,

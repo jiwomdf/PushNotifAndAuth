@@ -1,8 +1,9 @@
-package com.example.pushnotifandauth
+package com.example.pushnotifandauth.data.remote.api
 
 
 import com.example.pushnotifandauth.Constants.Companion.CONTENT_TYPE
 import com.example.pushnotifandauth.Constants.Companion.SERVER_KEY
+import com.example.pushnotifandauth.data.local.localEntity.PushNotification
 import okhttp3.ResponseBody
 import retrofit2.Response
 import retrofit2.http.Body
